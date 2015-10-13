@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<content>
+
+
+<ptitle>Fruits</ptitle>
+<ulist>
+	<item> Banana </item>
+	<item> Grape </item>
+	<item> Orange </item>
+	<item> Apple </item>
+</ulist>
+
+<olist>
+	<item> Banana </item>
+	<item> Grape </item>
+	<item> Orange </item>
+	<item> Apple </item>
+</olist>
+</content>
