@@ -4,9 +4,6 @@ A Tiny Markup Language Parser
 ## Synopsys
 A simple ruby script that parses markup languages, such as HTML or XML, and can convert them to other formats, like the example included with the script, that converts xml to html. Future examples will feature  generic convertion of html to plain text. You can even use it to apply a complex html+css template to a simple xml file. The XSLT stantard let us apply different kinds of modification in "ML" files. This application uses [Nokogiri](https://github.com/sparklemotion/nokogiri)
 
-## Motivation
-...
-
 ## License
  Copyright (c) 2015 Alysson Façanha Moreira
 
